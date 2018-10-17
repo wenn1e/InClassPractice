@@ -1,0 +1,14 @@
+"0","a<-1 "
+"2","Warning message:
+"
+"2","In dir.create(tempPath, recursive = TRUE) :"
+"2","
+ "
+"2"," cannot create dir 'C:\', reason 'Permission denied'
+"
+"0","2->b"
+"0","a"
+"1","[1]"
+"1"," 1"
+"1","
+"
